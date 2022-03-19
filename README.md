@@ -1,3 +1,4 @@
 ### 뇌 활성화를 위한 알고리즘 풀이
 ## 계획
-일단 무지성으로 골드 2 찍은 후 계획적으로 알고리즘을 학습하는게 목표
+![image](https://user-images.githubusercontent.com/22064581/159103922-822c434b-720b-4f6c-b2e6-c8ee8229b663.png)
+출처 : https://raw.githubusercontent.com/stack07142/BOJ
